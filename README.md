@@ -12,7 +12,7 @@ This project simulates a community of consumers, each with unique **Price Sensit
   - **Transaction Volume**: The number of transactions in which the consumer participates.
 - **Visualization**: A simple OxyPlot scatter plot visualizes the relationship between **PS**, **Assets**, **Transaction Volume**, and **Total Consumption**.
   
-![PS vs Assets, Transaction Volume, and Consumption](CommunitySimulation/ps_graph.png)
+<img src="CommunitySimulation/ps_graph.png" alt="PS vs Assets, Transaction Volume, and Consumption" width="65%" />
 
 ## How the Model Works
 
