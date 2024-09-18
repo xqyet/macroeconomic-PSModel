@@ -60,7 +60,7 @@ To run this simulation locally, follow these steps:
 
 1. Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/xqyet/macroeconomic-PSModel.git
    ```
    ### Contributions
-   This WinFormsApp was created using C# in Visual Studio by me (Gio). Feel free to fork and adjust variables to expand the model or focus on a specific part of the simulation!
+   This .NET WinFormsApp was created using C# in Visual Studio by me (Gio). Feel free to fork and adjust variables to expand the model or focus on a specific part of the simulation!
